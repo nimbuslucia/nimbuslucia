@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <h4>“Updating this profile isn’t a priority.”</h4>
+  <p>— Maybe someday.</p>
+  <br>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlrOGJ2NHo0cHY3bjVoZHQ3eGRza2ZxenBqZm9oZTRjMGo4NzlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="200"/>
+</div>
 
-<!--
-**nimbuslucia/nimbuslucia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <p>Art × Logic</p>
+  <p>Computer Science in the background</p>
+  <p>I build when necessary</p>
+  <p>Python • Java</p>
+  <p>nimbuslucia@gmail.com</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

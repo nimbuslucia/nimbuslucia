@@ -1,16 +1,16 @@
 <div align="center">
-  <h4>“Updating this profile isn’t a priority.”</h4>
-  <p>— Maybe someday.</p>
+  <h4>Learning and improving, step by step.</h4>
+  <p>Most things worth understanding take time.</p>
   <br>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlrOGJ2NHo0cHY3bjVoZHQ3eGRza2ZxenBqZm9oZTRjMGo4NzlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ2c3U2djRidGc3MXdwcmFuZ29mNmFiOHNnMDhkMWQ2OTkxYWsxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" width="200"/>
 </div>
-
 <div align="center">
-
-  <p>Art × Logic</p>
-  <p>Computer Science in the background</p>
-  <p>I build when necessary</p>
-  <p>Python • Java</p>
-  <p>nimbuslucia@gmail.com</p>
+  
+  Software Developer<br>
+  Computer Science Graduate<br>
+  Python • Java<br>
+  Interested in systems, software design, and continuous learning<br>
+  <br>
+  nimbuslucia@gmail.com
 
 </div>

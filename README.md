@@ -7,8 +7,9 @@
 <div align="center">
   
   Software Developer<br>
+  
   Computer Science Graduate<br>
-  Python • Java<br>
+
   Interested in systems, software design, and continuous learning<br>
   <br>
   nimbuslucia@gmail.com
